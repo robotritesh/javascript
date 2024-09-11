@@ -1,7 +1,7 @@
-a = "Ritesh"
-b = "shailesh"
-c = "Rajesh"
+// a = "Ritesh"
+// b = "shailesh"
+// c = "Rajesh"
 
-d = a || b || c
+// d = a || b || c
 
-console.log(d)
+// console.log(d)
